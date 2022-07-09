@@ -1,2 +1,2 @@
-# TsExtensions-React
-A typescript library comprised of React extensions 
+# TsExtensions
+Typescript library comprised of multiple reusable decorators
