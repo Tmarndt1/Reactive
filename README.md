@@ -1,4 +1,4 @@
-# TsExtensions
+# Reactive
 Typescript state management library for React. 
 
 ## Binding example
