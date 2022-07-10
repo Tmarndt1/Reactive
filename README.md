@@ -5,16 +5,16 @@ Typescript state management library for React.
 
 ```typescript
 
-let stateOfTruth = new ReactiveState({
-    version: "1.0"
+let sourceOfTruth = new ReactiveStore({
+    version: "1.0.0"
 });
 
-@bind(state)
+@bind(sourceOfTruth)
 class Component extends React.Component<IProps, IState> {
     constructor(props: IProps) {
         super(props);
         this.state = {
-            version: stateOfTruth.state.version
+            version: sourceOfTruth.state.version
         }
     }
 }
