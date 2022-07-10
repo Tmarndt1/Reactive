@@ -1,5 +1,5 @@
 # TsExtensions
-Typescript library comprised of multiple reusable decorators
+Typescript state management library for React. 
 
 ## Binding example
 
