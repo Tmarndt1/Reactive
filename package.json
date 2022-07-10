@@ -1,7 +1,7 @@
 {
   "name": "reactive",
   "version": "1.0.0",
-  "description": "Typescript library comprised of multiple reusable decorators",
+  "description": "Typescript state management library for React.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
