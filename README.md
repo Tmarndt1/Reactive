@@ -1,5 +1,5 @@
 # Reactive
-Typescript state management library for React with the goal to simplify the the way React developers setState. With Reactive, a developer can simply apply a bind attribute to a class component to auto dispatch updates to the component's state.
+Typescript state management library for React with the goal to simplify the the way React developers setState. With Reactive, a developer can simply apply a bind decorator to a class component to auto dispatch updates to the component's state.
 
 ## Binding example
 
